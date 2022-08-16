@@ -6,4 +6,11 @@ permalink: /blog
 
 This is my blog, for now.
 
-## test
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
