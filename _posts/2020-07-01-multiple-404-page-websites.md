@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "BMultiple 404 page websites"
+title:  "Multiple 404 page websites"
 permalink: /blog/multiple-404-page-websites
 categories: "webdesign"
 tag: "404"
