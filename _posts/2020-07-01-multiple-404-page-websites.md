@@ -20,9 +20,16 @@ Marvel had some budget left, so they made a bunch of 404 pages. At first I found
 
 Then I found out there are more, below you find a small collection of screenshot. Want to see them yourself, check it out at [https://www.marvel.com/404](https://www.marvel.com/404).
 
+### Protocol missing... Exiting program
+
 ![Marvel 404 page](/assets/images/marvel.com-404-1.png)
+
 ![Marvel 404 page](/assets/images/marvel.com-404-2.png)
+
 ![Marvel 404 page](/assets/images/marvel.com-404-3.png)
+
 ![Marvel 404 page](/assets/images/marvel.com-404-4.png)
+
 ![Marvel 404 page](/assets/images/marvel.com-404-5.png)
+
 ![Marvel 404 page](/assets/images/marvel.com-404-6.png)

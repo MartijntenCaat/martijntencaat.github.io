@@ -1,8 +1,3 @@
----
-layout: default
-title: This is just a placeholder post
----
-
 <!doctype html>
 <html>
   <head>
@@ -10,8 +5,10 @@ title: This is just a placeholder post
     <title>{{ page.title }}</title>
   </head>
   <body>
-    Navbar: {% include navbar.html %}
+    {% include navigation.html %}
+
     {{ content }}
+    
     {% include footer.html %}
   </body>
 </html>
